@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+    background-color:antiquewhite;
+
+}
+
+form{
+    height: 540px;
+    width: 540px;
+    background-color:grey;
+    border-radius: 20px;
+    text-align: center;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 100px;
+
+
+
+}
+input{
+    margin-left: 40px;
+    height: 30px;
+    width:280px;
+    border-radius: 50px;
+    border: none;
+    padding: 3px;
+}
